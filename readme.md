@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./src/img-artigo-tecnico.png"
+    width="300"
+/>
+</p>
+
 # Projeto artigo técnico gerado por I.A.s
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante os meus estudos do curso Santander 2024 - Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me).
@@ -10,6 +17,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
+- [Copilot Designer](https://copilot.microsoft.com/images/create) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
@@ -39,7 +47,7 @@ Lexica.art：
 
 - prompts utilizados
 
-## 👨‍💻 Estudante
+## 👨‍💻 Estudante Front-end e AWS Cloud Computing
 
 <p>
     <img 
