@@ -9,7 +9,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante os meus estudos do curso Santander 2024 - Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me).
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+Bem vindos! Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica. Minha gratidão a Deus, DIO e Santander pela oportunidade.
+
+Welcome! This project aims to generate a technical article with a rich layout, enjoyable readability and a focus on enhancing your technical authority. My gratitude goes to God, DIO and Santander for the opportunity.
 
 <a href="https://web.dio.me/articles/o-futuro-da-computacao-uma-jornada-pela-aws-cloud-computing?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
