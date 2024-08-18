@@ -49,7 +49,7 @@ Lexica.art：
 
 - prompts utilizados
 
-## 👨‍💻 Estudante Front-end e AWS Cloud Computing
+## 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
 
 <p>
     <img 
